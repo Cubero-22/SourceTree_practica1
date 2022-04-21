@@ -1,0 +1,6 @@
+
+Estos cambios de código los quiero subir definitivamente.
+
+Fichero4, texto corto.
+cambios para fichero4
+commit 2 fastforward
