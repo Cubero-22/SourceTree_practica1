@@ -1,0 +1,2 @@
+Primer fichero de soluciones.
+sigo solucionando código, es una solución concreta que ahora esta en la rama nueva
